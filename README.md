@@ -1,3 +1,3 @@
 # MyDemo
-my first git repo
+my first git repo.
 author - manjunath
